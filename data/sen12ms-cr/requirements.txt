@@ -1,0 +1,4 @@
+conda create -n sen12ms python=3.9 -y
+conda activate sen12ms
+conda install -c anaconda wget -y
+pip install numpy tqdm
